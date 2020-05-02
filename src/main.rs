@@ -23,7 +23,7 @@ fn main() -> Result<()> {
             (version: "0.1")
             (author: "Paul Adenot <paul@paul.cx>")
             (about: "converts a tracktor html export to text")
-            (@arg nostarttime: -n --notime "Don't output start time of tracks.")
+            (@arg nostarttime: -n --notime "Don't output start time of tracks")
             (@arg input: +required "Sets the input file to use")
             (@arg output: "Sets the output file to use (stdout by default)")
     ).get_matches();
