@@ -1,5 +1,7 @@
 # `traktorhtml2txt`
 
+Does what it says, convert an Traktor set list HTML export to text.
+
 ```
 traktorhtml2txt 0.1
 Paul Adenot <paul@paul.cx>
@@ -17,3 +19,10 @@ ARGS:
     <input>     Sets the input file to use
     <output>    Sets the output file to use (stdout by default)
 ```
+
+# License
+
+Either of:
+
+* Apache License, Version 2.0 ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
+* MIT license ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
